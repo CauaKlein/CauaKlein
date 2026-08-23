@@ -9,7 +9,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A7AF5&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Apaixonado+por+Java+%E2%98%95;Sempre+com+SQL+aberto+em+algum+canto+%F0%9F%97%84%EF%B8%8F;Construindo+coisas+legais+%F0%9F%9A%80;Aprendendo+algo+novo+todo+dia+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=7A7AF5&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Java+%E2%9D%A4%EF%B8%8F;Sempre+com+SQL+aberto+em+algum+canto+%F0%9F%97%84%EF%B8%8F;Construindo+coisas+legais+%F0%9F%9A%80;Aprendendo+algo+novo+todo+dia+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ###
@@ -19,7 +19,7 @@
 ###
 
 <p data-importer="text" align="center">
-🎓 Estudante de Engenharia de Software, apaixonado por tecnologia, desenvolvimento de sistemas, Inteligência Artificial e análise de dados.<br><br>
+🎓 Engenharia de Software na FIAP🔴 .<br><br>
 
 🚀 Participei de projetos acadêmicos e multidisciplinares em parceria com empresas como <strong>Ford, Hapvida e Schneider Electric</strong>, desenvolvendo soluções tecnológicas para diferentes desafios de negócio.<br><br>
 
