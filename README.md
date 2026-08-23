@@ -8,7 +8,9 @@
 
 ###
 
-<p data-importer="text" align="center">Estudante de Engenharia de Software • Desenvolvedor • Tecnologia, IA e Dados</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7A7AF5&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Apaixonado+por+Java+%E2%98%95;Sempre+com+SQL+aberto+em+algum+canto+%F0%9F%97%84%EF%B8%8F;Construindo+coisas+legais+%F0%9F%9A%80;Aprendendo+algo+novo+todo+dia+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -25,7 +27,7 @@
 
 🔬 Também participo de <strong>iniciação científica</strong>, desenvolvendo minha capacidade de pesquisa, análise, investigação e resolução de problemas.<br><br>
 
-👥 Em projetos e trabalhos em equipe, costumo assumir responsabilidades de <strong>organização, liderança e acompanhamento de entregas</strong>, contribuindo para o desenvolvimento colaborativo das soluções.<br><br>
+📚 Atualmente, busco aprofundar meus conhecimentos em <strong>desenvolvimento Backend, Inteligência Artificial, Dados, APIs e desenvolvimento de soluções escaláveis</strong>.<br><br>
 
 ### 🛠️ Tech Stack
 
@@ -43,8 +45,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-
-📚 Atualmente, busco aprofundar meus conhecimentos em <strong>desenvolvimento Backend, Inteligência Artificial, Dados, APIs e desenvolvimento de soluções escaláveis</strong>.
 </p>
 
 ###
