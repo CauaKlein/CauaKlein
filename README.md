@@ -66,14 +66,6 @@
   <img alt="gráfico de contribuições" src="https://raw.githubusercontent.com/cauaklein/cauaklein/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
-</div>
-
-###
-
 <p align="left">
   <a href="https://www.linkedin.com/in/cau%C3%A3-klein-53696534b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -82,3 +74,11 @@
     <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+</div>
+
+###
