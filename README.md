@@ -27,7 +27,18 @@
 
 👥 Em projetos e trabalhos em equipe, costumo assumir responsabilidades de <strong>organização, liderança e acompanhamento de entregas</strong>, contribuindo para o desenvolvimento colaborativo das soluções.<br><br>
 
-🛠️ Possuo também experiência profissional com <strong>suporte técnico e manutenção de hardware</strong>, experiência que fortaleceu minhas habilidades de resolução de problemas, comunicação e adaptação.<br><br>
+###
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,react,cs,cpp,c,r,sql" />
+</div>
+
+###
+
 
 📚 Atualmente, busco aprofundar meus conhecimentos em <strong>desenvolvimento Backend, Inteligência Artificial, Dados, APIs e desenvolvimento de soluções escaláveis</strong>.
 </p>
