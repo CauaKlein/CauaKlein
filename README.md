@@ -19,7 +19,7 @@
 ###
 
 <p data-importer="text" align="center">
-🎓 Engenharia de Software na FIAP🔴 .<br><br>
+🎓 Engenharia de Software na FIAP🔴<br><br>
 
 🚀 Participei de projetos acadêmicos e multidisciplinares em parceria com empresas como <strong>Ford, Hapvida e Schneider Electric</strong>, desenvolvendo soluções tecnológicas para diferentes desafios de negócio.<br><br>
 
@@ -28,6 +28,8 @@
 🔬 Também participo de <strong>iniciação científica</strong>, desenvolvendo minha capacidade de pesquisa, análise, investigação e resolução de problemas.<br><br>
 
 📚 Atualmente, busco aprofundar meus conhecimentos em <strong>desenvolvimento Backend, Inteligência Artificial, Dados, APIs e desenvolvimento de soluções escaláveis</strong>.<br><br>
+
+<hr>
 
 ### 🛠️ Tech Stack
 
